@@ -21,7 +21,7 @@
     "cors": "^2.8.5",
     "decorators-express": "^1.1.15",
     "es6-shim": "^0.35.8",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "express-class-validator": "^1.0.3",
     "helmet": "^7.1.0",
     "mongoose": "^8.4.0",
